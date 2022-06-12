@@ -1,6 +1,26 @@
 .App {
   text-align: center;
+  height: 1900px;
+  background-repeat: no-repeat;
+ -webkit-background-size: cover;
+         -moz-background-size: cover;
+         -o-background-size: cover;
+         background-size: cover;
+
 }
+
+@media (max-width: 668px) {
+
+.App {
+  height: 5700px;
+}
+}
+
+@font-face {
+  font-family: 'Avenir Next';
+  src: url("AvenirNextLTPro-Regular.otf"); /* File to be stored at your site */
+  }
+
 
 .App-logo {
   height: 40vmin;

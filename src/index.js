@@ -2,12 +2,26 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import Landing from './Landing';
+import ThemeProvider from './theme'
 import reportWebVitals from './reportWebVitals';
+import {createContext, useState} from 'react';
+
+
+
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
+
+
+
   <React.StrictMode>
-    <App />
+<ThemeProvider>
+  <App />
+  <Landing />
+</ThemeProvider>
+
   </React.StrictMode>
 );
 
