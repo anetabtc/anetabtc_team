@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c34a8f21.css",
-    "main.js": "/static/js/main.c0ce436d.js",
+    "main.css": "/static/css/main.8ab89dd2.css",
+    "main.js": "/static/js/main.5efb3566.js",
     "static/js/787.f7755ae6.chunk.js": "/static/js/787.f7755ae6.chunk.js",
     "static/media/background.png": "/static/media/background.f8d49e6279d8bfe40d1b.png",
     "static/media/background2.png": "/static/media/background2.d36e1d29eacf28e68552.png",
@@ -14,7 +14,6 @@
     "static/media/willie.png": "/static/media/willie.0739ddb87f6479423ca8.png",
     "static/media/georgina.png": "/static/media/georgina.94c386920c6c240930eb.png",
     "static/media/talgat.png": "/static/media/talgat.b6812b63c97c2761943e.png",
-    "static/media/margie.png": "/static/media/margie.8ea55b6c9ba7d9cca4b8.png",
     "static/media/hayato.png": "/static/media/hayato.836c1e2c19c7c84d7c92.png",
     "static/media/aibek.png": "/static/media/aibek.1302938e2f2ba835d174.png",
     "static/media/nathan.png": "/static/media/nathan.9bed760092df730b417d.png",
@@ -31,12 +30,12 @@
     "static/media/twitter.svg": "/static/media/twitter.3b7ae8f89afabec705981a144b085d36.svg",
     "static/media/medium.svg": "/static/media/medium.4758d2df055aadadad37ba0dc26ba940.svg",
     "index.html": "/index.html",
-    "main.c34a8f21.css.map": "/static/css/main.c34a8f21.css.map",
-    "main.c0ce436d.js.map": "/static/js/main.c0ce436d.js.map",
+    "main.8ab89dd2.css.map": "/static/css/main.8ab89dd2.css.map",
+    "main.5efb3566.js.map": "/static/js/main.5efb3566.js.map",
     "787.f7755ae6.chunk.js.map": "/static/js/787.f7755ae6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c34a8f21.css",
-    "static/js/main.c0ce436d.js"
+    "static/css/main.8ab89dd2.css",
+    "static/js/main.5efb3566.js"
   ]
 }
